@@ -1,6 +1,13 @@
 参考：https://markdown.com.cn/basic-syntax/paragraphs.html
+
+# Markdown语法速查表
+![](./img/2026-02-10-14-00-28.png)  
+
+
 # 标题
 要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题  
+![](./img/2026-02-10-13-55-46.png)
+
 # Heading level 1
 ## Heading level 2
 
@@ -10,7 +17,7 @@
 # Markdown 强调语法
 要加粗文本，请在单词或短语的前后各添加两个星号
 I just love **bold text**.
-
+![](./img/2026-02-10-13-56-32.png)  
 # 列表语法
 要创建有序列表，请在每个列表项前添加数字并紧跟一个英文句点
 1. First item
@@ -19,6 +26,7 @@ I just love **bold text**.
 4. Fourth item
 
 # 围栏代码块
+![](./img/2026-02-10-13-58-20.png)  
 ```json
 {
   "firstName": "John",
@@ -27,7 +35,7 @@ I just love **bold text**.
 }
 ```
 
-
+![](./img/2026-02-10-13-57-57.png)   
 ```python
 print("hello")
 ```
